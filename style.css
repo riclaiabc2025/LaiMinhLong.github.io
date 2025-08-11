@@ -399,7 +399,7 @@ span{
 }
 
 .skills .container{
-    background: #831dff64;
+    background: #5e7d06;
     container: var(--text-color);
     border-radius: 1rem;
     padding: 2rem;
@@ -638,7 +638,7 @@ span{
 }
 
 .info-item {
-    background-color: #831dff64;
+    background-color: #5e7d06;
     padding: 20px;
     border-radius: 12px;
     box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
